@@ -1,4 +1,4 @@
-# My-Projects
+# My Projects
 List of all Projects.
 
 Project: Wedding Invitation Planner (Final Assessment) with HTML/CSS, JavaScript.

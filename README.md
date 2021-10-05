@@ -1,7 +1,7 @@
 # My Projects
 List of all Projects.
 
-Project: Wedding Invitation Planner (Final Assessment) with HTML/CSS, JavaScript.
+Project: Wedding Invitation Planner with HTML/CSS, JavaScript.
 - https://github.com/Jayz-lab/Wedding-Invitation-Planner
 - https://jayz-lab.github.io/Wedding-Invitation-Planner/
 
